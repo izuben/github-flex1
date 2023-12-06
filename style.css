@@ -1,0 +1,16 @@
+.flex-container{
+    display: flex;
+    background-color: rgba(255, 228, 196, 0.514);
+    border: black;
+}
+
+.flex-container div{
+    background-color: rgba(212, 212, 30, 0.342);
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.flex-container div div button button{
+    padding: 1rem;
+}
